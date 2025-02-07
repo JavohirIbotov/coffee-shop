@@ -1,4 +1,4 @@
-alert("Yaxshimisiz?")
+alert("🫵🤍")
 let navbar = document.querySelector('.navbar');
 
 document.querySelector('#menu-btn').onclick = () =>{
